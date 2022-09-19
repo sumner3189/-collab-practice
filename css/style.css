@@ -22,5 +22,12 @@ button{
   background-color: rgb(146,228,50) !important;
   }
 } 
-/* body::after */
-  
+.card-footer{
+  background-color: lightgreen;
+}
+.card-header{
+  background-color: yellow;
+}
+.card-body{
+  background-color: orange;
+}
